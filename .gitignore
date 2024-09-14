@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#extra
+.vs
+vcpkg_installed
+x64
+imgui.ini
